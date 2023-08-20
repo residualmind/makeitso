@@ -9,7 +9,7 @@ Welcome to makeitso, the (mostly) language-agnostic AI-powered preprocessor desi
 
 ## How does it work?
 
-You don't want to know. It's a bunch of wires, paperclips, duct tape and ummm... ChatGPT. Feel free to check the source, but don't judge me. This just needed to be made. That's why it's not super clean. It just is.
+You don't want to know. It's a bunch of wires, paperclips, more paperclips, duct tape and ummm... ChatGPT. Feel free to check the source, but don't judge me. This just needed to be made. That's why it's not super clean. It just is.
 
 
 ## What?
